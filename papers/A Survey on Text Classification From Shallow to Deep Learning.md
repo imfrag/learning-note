@@ -1,6 +1,6 @@
 ## Evaluation Metrics
 
-	### Single-label metrics
+### Single-label metrics
 
 1.**Accuracy and Error Rate**. Accuracy and Error Rate are the fundamental metrics for a classification model.
 $$
